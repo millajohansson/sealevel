@@ -1,5 +1,7 @@
 # sealevel
 
+Scripts for doing calculations on Finnish sea level data.
+
 * distributions/: calculate probability distributions
 * normalperiod1991_2020/: calculate sea level statistics for the 30-year climatic reference period 1991-2020
 * statistics/: get data, calculate statistics, etc.
